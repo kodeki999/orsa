@@ -1,0 +1,15 @@
+torch>=2.9.1
+torchaudio>=2.9.1
+torchcodec>=0.9.0
+torchvision>=0.24.1
+accelerate>=1.12.0
+gradio>=6.0.1
+pre-commit>=4.5.0
+PyMuPDF>=1.26.6
+av>=16.0.1
+transformers>=5.0.0rc0
+spaces>=0.44.0
+
+# sglang>=0.5.6.post1  # using with sglang to infer
+# vllm>=0.12.0   # using with vllm to infer
+# not recommended to install sglang and vllm in the same environment
